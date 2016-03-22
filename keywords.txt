@@ -1,0 +1,79 @@
+#######################################
+# Syntax Coloring Map For Screen
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Screen	KEYWORD1
+Widget	KEYWORD1
+GraphicLed	KEYWORD1
+Label	KEYWORD1
+Button	KEYWORD1
+Slider	KEYWORD1
+Switcher	KEYWORD1
+Scaler	KEYWORD1
+DigitLed	KEYWORD1
+Digit3Led	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+#screen
+
+drawAllWidget	KEYWORD2
+getProcessMessage	KEYWORD2
+getTouchEvent	KEYWORD2
+
+#widget
+draw	KEYWORD2
+getXposition	KEYWORD2
+getYposition	KEYWORD2
+getWidth	KEYWORD2
+getHeight	KEYWORD2
+getId	KEYWORD2
+getIsVisible	KEYWORD2
+getState	KEYWORD2
+getType	KEYWORD2
+getColor	KEYWORD2
+setColor	KEYWORD2
+setState	KEYWORD2
+setId	KEYWORD2
+setVisibility	KEYWORD2
+setInvisible	KEYWORD2
+
+setNewText	KEYWORD2
+changeState	KEYWORD2
+
+getValue	KEYWORD2
+setValue	KEYWORD2
+
+setPtVisible	KEYWORD2
+setColorBkg	KEYWORD2
+setColorSeg	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BUTTON_STATE_PRESSED	LITERAL1
+BUTTON_STATE_RELEASED	LITERAL1
+LED_STATE_ON	LITERAL1
+LED_STATE_OFF	LITERAL1
+SWITCHER_STATE_ON	LITERAL1
+SWITCHER_STATE_OFF	LITERAL1
+SLIDER_STATE_MOVE	LITERAL1
+SLIDER_STATE_RELEASED	LITERAL1
+SCALER_STATE_PRESSED_UP	LITERAL1
+SCALER_STATE_PRESSED_DOWN	LITERAL1
+SCALER_STATE_RELEASED	LITERAL1
+STATE_ON	LITERAL1
+STATE_OFF	LITERAL1
+
+FONT1	LITERAL1
+FONT2	LITERAL1
+FONT3	LITERAL1
+
+
+
+
